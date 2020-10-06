@@ -1,5 +1,18 @@
 # First Laboratory
 
+### Exploring Unknown Artifacts:
+
+![Exploring Artifacts Type](./Pictures/ExploringArtifactsType.png)
+
+- Finding out Artifacts Type `ELF` & `PDF`
+
+![Exploring Artifacts Content](./Pictures/ExploringArtifactsContent_1.png)
+![Exploring Artifacts Content](./Pictures/ExploringArtifactsContent_2.png)
+
+- Running `hexdump -C <FILE> | less`
+
+---
+
 ### Auditing Passwords:
 
 ![Auditing Passwords](./Pictures/AuditingPasswords.png)
@@ -8,7 +21,7 @@
 
 ---
 
-### Network Analysis
+### Network Analysis:
 
 ![Network Analysis](./Pictures/NetworkAnalysis.png)
 
