@@ -1,4 +1,4 @@
-# Second Laboratory
+# Second Regular Laboratory
 
 ### Exercise:
 

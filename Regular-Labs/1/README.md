@@ -1,4 +1,4 @@
-# First Laboratory
+# First Regular Laboratory
 
 ### Exploring Unknown Artifacts:
 
